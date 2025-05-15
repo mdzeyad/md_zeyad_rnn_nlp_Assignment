@@ -1,0 +1,14 @@
+# RNN Assignment by Md Zeyad
+
+## How to run
+- Open the notebook `md_zeyad_nlptask_Assignment.ipynb` in Google Colab.
+- Run all the cells to train and test the models.
+
+## Tasks
+1. Classify educational text into Math, Science, History, English.
+2. Generate next words from a seed text using an RNN.
+
+## Sample Output
+- Classification Accuracy: ~1.00
+- Generated text starting with "Photosynthesis is":  
+  Photosynthesis is how plants make food the pythagorean theorem is useful in geometry
